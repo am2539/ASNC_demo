@@ -1,0 +1,160 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@type": "sc:Manifest",
+  "@id": "https://mss-cat.trin.cam.ac.uk/Manuscript/O.11a.5_12/manifest.json?manifest=https://mss-cat.trin.cam.ac.uk/Manuscript/O.11a.5_12/manifest.json",
+  "label": "O.11a.5_12",
+  "description": "<p>25 long lines, ruled in hard point. Caroline miniscule.</p>",
+  "provenance": null,
+  "thumbnail": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.11a.5_12%2F001_O.11a.5_12_recto.jp2/full/full/0/default.jpg",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "<p>Fragment of Aristotle, <em>Categoriae </em>and Themistius, <em>De decem categoriis</em></p>"
+    },
+    {
+      "label": "Alternative Title",
+      "value": null
+    },
+    {
+      "label": "James Number",
+      "value": "n/a"
+    },
+    {
+      "label": "Century",
+      "value": "9, 10"
+    },
+    {
+      "label": "Provenance",
+      "value": null
+    },
+    {
+      "label": "Second Folio",
+      "value": null
+    },
+    {
+      "label": "Religious House",
+      "value": ""
+    },
+    {
+      "label": "Donor",
+      "value": ""
+    },
+    {
+      "label": "Size (cm)",
+      "value": "27.5 x 15"
+    },
+    {
+      "label": "Folios",
+      "value": null
+    },
+    {
+      "label": "Binding",
+      "value": null
+    },
+    {
+      "label": "Material",
+      "value": "Parchment"
+    },
+    {
+      "label": "Language",
+      "value": "Latin"
+    },
+    {
+      "label": "Collation",
+      "value": null
+    },
+    {
+      "label": "Notes",
+      "value": "<p>This leaf is item 12 in a collection of fragments O.11a.5.</p>\r\n<p>&nbsp;</p>\r\n<p>The leaf was reused as a cover of a small book (which was labelled N 29 or 85), its recto forming the outside and its verso the inside of the cover. A leather thong for fastening still survives.</p>"
+    },
+    {
+      "label": "Manuscript Summary",
+      "value": "Leaf from a copy of Aristotle, Categoriae in Latin translation by Boethius with fragment form Themistius, De decem categoriis"
+    },
+    {
+      "label": "Online Since",
+      "value": "04/05/2022"
+    },
+    {
+      "label": "Catalogue",
+      "value": "<a href='https://mss-cat.trin.cam.ac.uk/Manuscript/O.11a.5_12'>View Record</a>"
+    }
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "attribution": "Trinity College, Cambridge",
+  "logo": "https://mss-cat.trin.cam.ac.uk/manuscripts/files/logo.png",
+  "sequences": [
+    {
+      "@type": "sc:Sequence",
+      "viewingHint": "paged",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.11a.5_12%2F001_O.11a.5_12_recto.jp2",
+          "label": "recto",
+          "width": 3340,
+          "height": 5779,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.11a.5_12%2F001_O.11a.5_12_recto.jp2",
+              "resource": {
+                "label": "001_O.11a.5_12_recto",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.11a.5_12%2F001_O.11a.5_12_recto.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.11a.5_12%2F001_O.11a.5_12_recto.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 3340,
+                "height": 5779
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.11a.5_12%2F002_O.11a.5_12_verso.jp2",
+          "label": "verso",
+          "width": 3342,
+          "height": 5755,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.11a.5_12%2F002_O.11a.5_12_verso.jp2",
+              "resource": {
+                "label": "002_O.11a.5_12_verso",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.11a.5_12%2F002_O.11a.5_12_verso.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.11a.5_12%2F002_O.11a.5_12_verso.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 3342,
+                "height": 5755
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "structures": [
+    {
+      "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.1.1/range/r0",
+      "@type": "sc:Range",
+      "label": "All of it",
+      "canvases": [
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.11a.5_12%2F001_O.11a.5_12_recto.jp2",
+        "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.11a.5_12%2F002_O.11a.5_12_verso.jp2"
+      ]
+    }
+  ]
+}
