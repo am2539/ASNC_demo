@@ -118,6 +118,33 @@
         },
         {
           "@type": "sc:Canvas",
+          "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.2.14%2F066_O.2.14_f030v.jp2",
+          "label": "f030v",
+          "width": 4967,
+          "height": 6966,
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.2.14%2F066_O.2.14_f030v.jp2",
+              "resource": {
+                "label": "066_O.2.14_f030v",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.2.14%2F066_O.2.14_f030v.jp2/full/full/0/default.jpg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.2.14%2F066_O.2.14_f030v.jp2",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                },
+                "width": 4967,
+                "height": 6966
+              }
+            }
+          ]
+        },
+        {
+          "@type": "sc:Canvas",
           "@id": "https://mss-cat.trin.cam.ac.uk:8183/iiif/2/O.11a.5_12%2F002_O.11a.5_12_verso.jp2",
           "label": "verso",
           "width": 3342,
